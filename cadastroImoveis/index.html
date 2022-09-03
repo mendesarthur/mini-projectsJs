@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de imóveis</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div id="main-content">
+        <form>
+            <h3>Cadastro de imóveis</h3>
+            <div id="radios">
+                <label>Tipo: </label>
+                <input type="radio" value="casa" name="house-type" />Casa
+                <input type="radio" value="apartamento" name="house-type" />Apartamento
+            </div>
+            <div id="input-area">
+                <label for="">Área: </label>
+                <input type="text" name="area" />
+            </div>
+            <div id="check">
+                <input type="checkbox" name="alugado" value="alugado" /> Alugado
+            </div>
+            <div id="buttom">
+                <button id="main-btn" type="button" >Enviar</button>
+            </div>
+            
+    
+        </form>
+    </div>
+    <hr>
+    <div id="title"></div>
+    <ul id="house-list"></ul>
+
+    
+    <script src="./js/script.js"></script>
+
+</body>
+</html>

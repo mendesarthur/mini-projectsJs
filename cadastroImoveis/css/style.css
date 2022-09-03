@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(to right, #ebdede, #f3a0a0);
+}
+li.house-li {
+    background-color:rgb(189, 151, 206);
+    border: 1px solid gray;
+    border-radius: 20px;
+    display:inline-block;
+    padding: 10px;
+    width: 120px;
+    height: 100px;
+    margin: 5px;
+    position: relative;
+}
+
+ul {
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button.delete-button {
+    text-align: center;
+    border: 0px;
+    border-radius: 15px;
+    background-color:crimson;
+    margin-top: 5px;
+    padding: 5px;
+    color: purple;
+    font-weight: bold;
+    background-color:rgb(255, 215, 0);
+}
+#main-content{
+    color: #4b4343;
+    height: 220px;
+    width: 300px;
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid #efe9e9;
+    text-align: center;
+    
+}
+#radios{
+    margin: 20px;
+    padding-right: auto;
+}
+
+#input-area{
+    margin: 20px;
+    padding-right: auto;
+}
+
+#check{
+    margin: 20px;
+    padding-right: auto;
+}
