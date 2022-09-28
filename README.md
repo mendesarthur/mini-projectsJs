@@ -47,6 +47,11 @@
       <li><a href="./crud/">Código</a></li>
       <a href="https://mendesarthur.github.io/mini-projectsJs/crud/"><img src="./img/crud.png" width="300px" ></a>
     </td>
+     <td>
+      <h3>Jogo da velha</h3>
+      <li><a href="./jogoDaVelha/">Código</a></li>
+      <a href="https://mendesarthur.github.io/mini-projectsJs/jogoDaVelha/"><img src="./img/jogoDaVelha.png" width="300px" ></a>
+    </td>
   </tr>
   
 </table>
