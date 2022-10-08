@@ -1,4 +1,4 @@
-#  9 Mini projects using pure Javascript
+#  8 Mini projects using pure Javascript
 
 <table border="2">
   <tr>
