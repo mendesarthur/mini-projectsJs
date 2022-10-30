@@ -7,12 +7,6 @@
         <li><a href="./cadastroImoveis/">Código</a></li>
         <a href="https://mendesarthur.github.io/mini-projectsJs/cadastroImoveis/"><img src="./img/cadastroImoveis.png" width="450px"></a>
     </td>
-      <td>
-        <h3>Calculadora</h3>
-        <li><a href="./calculadora/">Código</a></li>
-        <a href="https://mendesarthur.github.io/mini-projectsJs/calculadora/"><img 
-        src="./img/calculadora.png" width="650px"></a>
-    </td>
     <td>
       <h3>Calculadora Imc</h3>
       <li><a href="./calculadoraImc/">Código</a></li>
