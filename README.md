@@ -17,7 +17,7 @@
     <td>
       <h3>Lâmpada</h3>
       <li><a href="./lampada">Código</a></li>
-      <a href="https://mendesarthur.github.io/mini-projectsJs/lampada/"><img src="./img/lampada.png" width="300px" ></a>
+      <a href="https://mendesarthur.github.io/mini-projectsJs/lampada/"><img src="./img/lampada-final.png" width="300px" ></a>
     </td>
     <td>
       <h3>Semafaro</h3>
