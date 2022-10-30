@@ -12,34 +12,34 @@
       <li><a href="./calculadoraImc/">Código</a></li>
       <a href="https://mendesarthur.github.io/mini-projectsJs/calculadoraImc/"><img src="./img/calculadoraImc.png" width="350px" ></a>
     </td>
-  </tr>
-  <tr>
-    <td>
+      <td>
       <h3>Lâmpada</h3>
       <li><a href="./lampada">Código</a></li>
       <a href="https://mendesarthur.github.io/mini-projectsJs/lampada/"><img src="./img/lampada-final.png" width="300px" ></a>
     </td>
+  </tr>
+  <tr>
     <td>
       <h3>Semafaro</h3>
       <li><a href="./semafaro/">Código</a></li>
-      <a href="https://mendesarthur.github.io/mini-projectsJs/semafaro/"><img src="./img/semafaro.png" width="300px" ></a>
+      <a href="https://mendesarthur.github.io/mini-projectsJs/semafaro/"><img src="./img/semafaro.png" width="250px" ></a>
     </td>
     <td>
       <h3>slide Show</h3>
       <li><a href="./slideShow/">Código</a></li>
       <a href="https://mendesarthur.github.io/mini-projectsJs/slideShow/"><img src="./img/slideShow.png" width="300px" ></a>
     </td>
+        <td>
+      <h3>Crud</h3>
+      <li><a href="./crud/">Código</a></li>
+      <a href="https://mendesarthur.github.io/mini-projectsJs/crud/"><img src="./img/crud.png" width="350px" ></a>
+    </td>
   </tr>
   <tr>
     <td>
       <h3>To-do-list</h3>
       <li><a href="./todoList/">Código</a></li>
-      <a href="https://mendesarthur.github.io/mini-projectsJs/todoList/"><img src="./img/todoList.png" width="250px" ></a>
-    </td>
-     <td>
-      <h3>Crud</h3>
-      <li><a href="./crud/">Código</a></li>
-      <a href="https://mendesarthur.github.io/mini-projectsJs/crud/"><img src="./img/crud.png" width="300px" ></a>
+      <a href="https://mendesarthur.github.io/mini-projectsJs/todoList/"><img src="./img/todoList.png" width="450px" ></a>
     </td>
   </tr>
   
