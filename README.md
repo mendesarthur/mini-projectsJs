@@ -41,6 +41,15 @@
       <li><a href="./todoList/">Código</a></li>
       <a href="https://mendesarthur.github.io/mini-projectsJs/todoList/"><img src="./img/todoList.png" width="450px" ></a>
     </td>
-  </tr>
+    <td>
+      <h3>Calculadora</h3>
+      <li><a href="./calculadora/">Código</a></li>
+      <a href="https://mendesarthur.github.io/mini-projectsJs/calculadora/"><img src="./img/calculadora.png" width="450px" ></a>
+    </td>
+    <td>
+      <h3>Cronômetro</h3>
+      <li><a href="./cronometro/">Código</a></li>
+      <a href="https://mendesarthur.github.io/mini-projectsJs/cronometro/"><img src="./img/print_cronometro.png" width="450px" ></a>
+    </td>
   
 </table>
