@@ -7,11 +7,6 @@
         <li><a href="./cadastroImoveis/">Código</a></li>
         <a href="https://mendesarthur.github.io/mini-projectsJs/cadastroImoveis/"><img src="./img/cadastroImoveis.png" width="450px"></a>
     </td>
-    <td>
-      <h3>Calculadora Imc</h3>
-      <li><a href="./calculadoraImc/">Código</a></li>
-      <a href="https://mendesarthur.github.io/mini-projectsJs/calculadoraImc/"><img src="./img/calculadoraImc.png" width="350px" ></a>
-    </td>
       <td>
       <h3>Lâmpada</h3>
       <li><a href="./lampada">Código</a></li>
@@ -44,12 +39,12 @@
     <td>
       <h3>Calculadora</h3>
       <li><a href="./calculadora/">Código</a></li>
-      <a href="https://mendesarthur.github.io/mini-projectsJs/calculadora/"><img src="./img/calculadora.png" width="450px" ></a>
+      <a href="https://mendesarthur.github.io/calculadora/"><img src="./img/calculadora.png" width="450px" ></a>
     </td>
     <td>
       <h3>Cronômetro</h3>
       <li><a href="./cronometro/">Código</a></li>
-      <a href="https://mendesarthur.github.io/mini-projectsJs/cronometro/"><img src="./img/print_cronometro.png" width="450px" ></a>
+      <a href="https://mendesarthur.github.io/cronometro/"><img src="./img/print_cronometro.png" width="450px" ></a>
     </td>
   
 </table>
